@@ -11,7 +11,7 @@ No YouTube Yoodle is a Firefox browser extension that allows you to remove the Y
 ## Installation
 
 1. Visit the [Firefox Add-ons](https://addons.mozilla.org/) website.
-2. Search for "No YouTube Yoodle" or visit the [extension page](https://addons.mozilla.org/extensions/no-youtube-yoodle).
+2. Search for "No YouTube Yoodle" or visit the [extension page](https://addons.mozilla.org/de/firefox/addon/no-youtube-yoodle/).
 3. Click on the "Add to Firefox" button to install the extension.
 4. Once installed, the YouTube yoodle banner will be disabled automatically.
 
