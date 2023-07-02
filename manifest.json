@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "No YouTube Yoodle",
+  "version": "1.0",
+  "description": "A Firefox extension that disables YouTube Yoodle banner (the thing that shows up on top of the page on special occasions).",
+  "icons": {
+    "48": "icon.svg"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "icon.svg"
+    },
+    "default_title": "Disable YouTube Yoodle"
+  },
+  "author": "Finn Lippok",
+  "homepage_url": "https://github.com/FinnPL/NoYouTubeYoodle",
+  "permissions": ["*://*.youtube.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
