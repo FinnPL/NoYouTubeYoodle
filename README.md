@@ -2,6 +2,9 @@
 
 No YouTube Yoodle is a Firefox browser extension that allows you to remove the YouTube yoodle banner from the YouTube homepage.
 
+![gif](https://github.com/FinnPL/NoYouTubeYoodle/assets/77006988/bb734ad1-be3c-4e06-adbd-1b8af8daac0b)
+
+
 ## Features
 
 - Removes the YouTube yoodle banner from the YouTube homepage.
